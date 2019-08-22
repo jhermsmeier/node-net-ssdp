@@ -1,0 +1,28 @@
+{
+  "name": "net-ssdp",
+  "version": "0.0.0",
+  "description": "Simple Service Discovery Protocol (SSDP)",
+  "author": "Jonas Hermsmeier <jhermsmeier@gmail.com> (https://jhermsmeier.de)",
+  "license": "MIT",
+  "keywords": [
+    "ssdp",
+    "service",
+    "discovery",
+    "protocol",
+    "upnp"
+  ],
+  "main": "lib/ssdp.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "homepage": "https://github.com/jhermsmeier/node-net-ssdp",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jhermsmeier/node-net-ssdp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jhermsmeier/node-net-ssdp/issues"
+  }
+}
