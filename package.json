@@ -1,6 +1,6 @@
 {
   "name": "net-ssdp",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Simple Service Discovery Protocol (SSDP)",
   "author": "Jonas Hermsmeier <jhermsmeier@gmail.com> (https://jhermsmeier.de)",
   "license": "MIT",
